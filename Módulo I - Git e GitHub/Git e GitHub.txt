@@ -1,0 +1,8 @@
+
+#Comandos
+Windows / Unix
+
+-cd / -cd 
+-dir / -ls
+-mkdir / -mkdir 
+-del -rmdir / -rm -rf
